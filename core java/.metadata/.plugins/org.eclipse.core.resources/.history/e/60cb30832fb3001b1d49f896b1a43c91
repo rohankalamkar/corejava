@@ -1,0 +1,6 @@
+package Abstraction.Abstract.Day1.ByHiteshSir;
+
+public class C2 extends B2 {
+	
+
+}

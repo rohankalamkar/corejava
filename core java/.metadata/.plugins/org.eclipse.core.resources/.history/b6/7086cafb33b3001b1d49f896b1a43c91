@@ -1,0 +1,6 @@
+package Abstraction.Abstract.Day1.ByHiteshSir;
+
+public class Test3 {
+	C3 c = new C3();
+
+}

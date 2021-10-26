@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ProjectSelfExerciseByMe&apos; to &apos;ProjectByMe&apos;" description="Rename resource &apos;ProjectSelfExerciseByMe&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ProjectSelfExerciseByMe" name="ProjectByMe" stamp="1620312608962" updateReferences="true"/>
+</session>

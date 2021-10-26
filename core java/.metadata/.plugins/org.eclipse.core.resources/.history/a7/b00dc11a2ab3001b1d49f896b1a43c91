@@ -1,0 +1,23 @@
+package Abstraction.Abstract.Day1.ByHiteshSir;
+
+public class B1 extends A1 {
+
+	@Override
+	public void m1() {
+		System.out.println("void-----m1-----B1");
+		
+	}
+
+	@Override
+	public void m1(int i) {
+		System.out.println("Int -----m1------B1");
+		
+	}
+
+	@Override
+	public int m4() {
+		
+		return 100;
+	}
+
+}

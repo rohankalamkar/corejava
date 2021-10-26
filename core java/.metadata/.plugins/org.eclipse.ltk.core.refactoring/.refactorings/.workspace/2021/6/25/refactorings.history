@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BankProjectForMultipleObject By JDBC&apos; to &apos;BankProjectForMultipleObject By JDBC MySQL&apos;" description="Rename resource &apos;BankProjectForMultipleObject By JDBC&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BankProjectForMultipleObject By JDBC" name="BankProjectForMultipleObject By JDBC MySQL" stamp="1623598490683" updateReferences="true"/>
+</session>

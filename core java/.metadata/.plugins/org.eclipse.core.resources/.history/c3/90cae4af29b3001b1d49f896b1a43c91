@@ -1,0 +1,21 @@
+package Abstraction.Abstract.Day1.ByHiteshSir;
+
+abstract public class A1 {    //  Partial Abstraction 
+	                          //  While interface is called 100% Abstraction
+	
+	public abstract void m1();
+	
+	abstract public void m1(int i);    // We can Overload abstract method
+	
+	public void m2() {
+		
+	}
+//	public int m2() { // Error : Duplicate
+//		return 10;
+//	}
+	
+	public int m3() {       // It is a normal int return method   ...See A1.class file 
+		return 10;
+	}
+
+}

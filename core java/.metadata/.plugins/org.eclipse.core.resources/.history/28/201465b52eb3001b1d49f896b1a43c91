@@ -1,0 +1,28 @@
+package Abstraction.Abstract.Day1.ByHiteshSir;
+
+public class Test1 {
+	public static void main(String[] args) {
+	//	A1 a = new A1();   //Error:  cannot instantiate type A1
+		                   //  We cannot Create Object of Abstract class
+	//	A1 a1 = new B1();   //Error: cannot instantiate type B1
+		
+		// B1 b = new B1();    //Error: cannot instantiate type B1
+		
+	//	B1 b1 = new A1(); //Error Type mismatch: cannot convert from  A1 to B1
+		
+			  // Cannot instantiate the type A1
+		
+		A1 a2 = new C1();   //  
+		a2.m1();
+		a2.m1(20);
+		a2.m2();
+		int x = a2.m3();
+		System.out.println(x);
+		int y =a2.m4();
+		System.out.println(y);
+		System.out.println("1.----------------------------------");
+		
+		
+	}
+
+}
